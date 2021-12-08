@@ -1,6 +1,7 @@
 Takeaways
 1. Properly planning your time is key.
 2. Be sure to create notes prior to class, and add to them during the lecture.
+3. this is another thought.
 
 Strategies
 1. Add an additional time buffer to due dates, by planning to turn in projects 48 hours in advance of the due date.
